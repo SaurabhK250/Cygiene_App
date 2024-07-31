@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "904978604942",
+    "project_id": "cygieneui",
+    "storage_bucket": "cygieneui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904978604942:android:d5a4e0bd9daaf001ed3adf",
+        "android_client_info": {
+          "package_name": "com.example.cygiene_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904978604942-mkqecgjfg6qntbhova9kmrg3tdjrbcs4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cygiene_ui",
+            "certificate_hash": "03966ba0484a400fa8d52bbdc2ea8ddb90d114e5"
+          }
+        },
+        {
+          "client_id": "904978604942-kkva5bs964mkcom95qpha8tca00arc1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Z1Yn19EQfFqIuqvEJBwjF42pdzWpe1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904978604942-kkva5bs964mkcom95qpha8tca00arc1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
